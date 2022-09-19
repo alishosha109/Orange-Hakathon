@@ -1,0 +1,4 @@
+send code on email
+exam expires in 2 days
+validation gamd awy hata fe el max length w el hagat de nbho 3leha tany
+test all
